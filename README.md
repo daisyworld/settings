@@ -1,6 +1,6 @@
 # サイエンス・フィクション世界観・設定共有プロジェクト「DAISYWORLD」
 
-![icon](https://raw.githubusercontent.com/daisyworld/settings/master/images/icon.png =300x300)
+![icon](https://raw.githubusercontent.com/daisyworld/settings/master/images/icon.png)
 
 ひとが、未来からのプレゼントを受け取ってしまった時、何を考えるのでしょうか？
 そこには「人間のこれからの姿」を想像するヒントがあるはずです。
